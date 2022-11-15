@@ -1,0 +1,8 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\bin\Debug\3.5_Szalkezeles.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\bin\Debug\3.5_Szalkezeles.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\bin\Debug\3.5_Szalkezeles.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\obj\Debug\3.5_Szalkezeles.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\obj\Debug\3.5_Szalkezeles.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\obj\Debug\3.5_Szalkezeles.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\obj\Debug\3.5_Szalkezeles.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\3.5_Szalkezeles\obj\Debug\3.5_Szalkezeles.pdb

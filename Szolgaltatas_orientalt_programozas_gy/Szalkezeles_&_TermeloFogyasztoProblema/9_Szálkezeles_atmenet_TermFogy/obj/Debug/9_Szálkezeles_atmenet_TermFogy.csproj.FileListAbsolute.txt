@@ -1,0 +1,8 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\obj\Debug\9_Szálkezeles_atmenet_TermFogy.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\obj\Debug\9_Szálkezeles_atmenet_TermFogy.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\obj\Debug\9_Szálkezeles_atmenet_TermFogy.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\bin\Debug\9_Szálkezeles_atmenet_TermFogy.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\bin\Debug\9_Szálkezeles_atmenet_TermFogy.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\bin\Debug\9_Szálkezeles_atmenet_TermFogy.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\obj\Debug\9_Szálkezeles_atmenet_TermFogy.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\9_Szálkezeles_atmenet_TermFogy\obj\Debug\9_Szálkezeles_atmenet_TermFogy.pdb

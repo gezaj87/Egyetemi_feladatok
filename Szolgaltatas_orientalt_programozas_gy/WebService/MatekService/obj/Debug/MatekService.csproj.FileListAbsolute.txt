@@ -1,0 +1,7 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\bin\MatekService.dll.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\bin\MatekService.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\bin\MatekService.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\obj\Debug\MatekService.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\obj\Debug\MatekService.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\obj\Debug\MatekService.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\MatekService\obj\Debug\MatekService.pdb

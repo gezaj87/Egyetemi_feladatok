@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matek_Service", "Matek_Service\Matek_Service.csproj", "{D16299D4-79E8-49A4-929C-0284719FC289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matek_Imp", "Matek_Imp\Matek_Imp.csproj", "{B0EFBA45-481A-45ED-945B-43DCA782C179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matek_Server", "Matek_Server\Matek_Server.csproj", "{9FB6CE98-EA32-446B-91EE-E8678175A9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matek_Client", "Matek_Client\Matek_Client.csproj", "{91EBDA55-077C-4192-A6D2-25BE30739D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16299D4-79E8-49A4-929C-0284719FC289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16299D4-79E8-49A4-929C-0284719FC289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16299D4-79E8-49A4-929C-0284719FC289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16299D4-79E8-49A4-929C-0284719FC289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EFBA45-481A-45ED-945B-43DCA782C179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EFBA45-481A-45ED-945B-43DCA782C179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EFBA45-481A-45ED-945B-43DCA782C179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EFBA45-481A-45ED-945B-43DCA782C179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB6CE98-EA32-446B-91EE-E8678175A9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB6CE98-EA32-446B-91EE-E8678175A9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB6CE98-EA32-446B-91EE-E8678175A9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB6CE98-EA32-446B-91EE-E8678175A9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EBDA55-077C-4192-A6D2-25BE30739D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EBDA55-077C-4192-A6D2-25BE30739D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EBDA55-077C-4192-A6D2-25BE30739D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EBDA55-077C-4192-A6D2-25BE30739D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987BE1BA-6B3F-40DD-8513-B4BB269B7E8C}
+	EndGlobalSection
+EndGlobal

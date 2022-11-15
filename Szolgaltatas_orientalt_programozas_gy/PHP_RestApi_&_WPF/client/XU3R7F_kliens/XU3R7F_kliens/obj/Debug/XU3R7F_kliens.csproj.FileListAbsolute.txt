@@ -1,0 +1,57 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\App.g.cs
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.lref
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.baml
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.g.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.Properties.Resources.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.GenerateResource.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CopyComplete
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe.config
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.pdb
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.dll
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.xml
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.AssemblyReference.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.SuggestedBindingRedirects.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.g.cs
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\App.g.cs
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.lref
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.baml
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.g.resources
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.Properties.Resources.resources
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.GenerateResource.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CoreCompileInputs.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CopyComplete
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.exe
+D:\EGYETEM\GIT\Egyetemi_feladatok\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.pdb
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe.config
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.pdb
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.dll
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.xml
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.AssemblyReference.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.SuggestedBindingRedirects.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.g.cs
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\App.g.cs
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.lref
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.baml
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.g.resources
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.Properties.Resources.resources
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.GenerateResource.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CoreCompileInputs.cache
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CopyComplete
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.exe
+D:\EGYETEM\GIT\Egyetemi_feladatok\Szolgaltatas_orientalt_programozas_gy\PHP_RestApi_&_WPF\client\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.pdb

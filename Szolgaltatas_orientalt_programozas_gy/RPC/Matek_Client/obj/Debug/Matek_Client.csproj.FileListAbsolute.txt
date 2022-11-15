@@ -1,0 +1,14 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\bin\Debug\Matek_Client.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\bin\Debug\Matek_Client.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\bin\Debug\Matek_Client.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\bin\Debug\Matek_Service.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\bin\Debug\Matek_Service.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.Form1.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.Properties.Resources.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.csproj.GenerateResource.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.csproj.CopyComplete
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Client\obj\Debug\Matek_Client.pdb

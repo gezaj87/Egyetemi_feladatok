@@ -1,0 +1,13 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Server.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Server.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Server.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Imp.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Service.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Imp.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\bin\Debug\Matek_Service.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\obj\Debug\Matek_Server.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\obj\Debug\Matek_Server.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\obj\Debug\Matek_Server.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\obj\Debug\Matek_Server.csproj.CopyComplete
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\obj\Debug\Matek_Server.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Server\obj\Debug\Matek_Server.pdb

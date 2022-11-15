@@ -1,0 +1,186 @@
+﻿<Window x:Class="XU3R7F_kliens.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XU3R7F_kliens"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="700">
+    
+    <StackPanel Width="600">
+        <Label Content="Employee's Database" HorizontalAlignment="Center" Margin="0 10 0 0" FontSize="20" FontWeight="Bold" />
+        <StackPanel Orientation="Horizontal" Height="50" HorizontalAlignment="Center">
+            <Button x:Name="LoginMenuButton" Content="Login" Padding="5" Margin="10 0 10 0" Background="Yellow" Click="LoginMenu_Click"/>
+            <Button Content="All Employees" Padding="5" Margin="10 0 10 0" Click="GetAllEmployees" Background="WhiteSmoke"/>
+            <Button x:Name="SearchByIdButton" Content="Search by ID" Padding="5" Margin="10 0 10 0" Click="SearchByIdButton_Click" Background="WhiteSmoke"/>
+            <Button x:Name="AddMenuButton" Content="Add" Padding="5" Margin="10 0 10 0" Click="AddMenuButton_Click" Background="WhiteSmoke"/>
+            <Button x:Name="EditMenuButton" Content="Edit" Padding="5" Margin="10 0 10 0" Click="EditMenuButton_Click" Background="WhiteSmoke"/>
+            <Button x:Name="DeleteMenuButton" Content="Delete" Padding="5" Margin="10 0 10 0" Click="DeleteMenuButton_Click" Background="WhiteSmoke"/>
+        </StackPanel>
+        
+        <!--Login-->
+        <StackPanel x:Name="LoginPanel" Visibility="Collapsed">
+            <StackPanel x:Name="LoginPanelLogin" Orientation="Horizontal" Height="50" HorizontalAlignment="Center" Margin="0 20 0 0" Visibility="Visible">
+                <Label Content="Email: " Margin="0 11 0 0"/>
+                <TextBox x:Name="InputEmail" Width="100" Height="20"></TextBox>
+                <Label Content="Password: " Margin="0 11 0 0"/>
+                <PasswordBox x:Name="InputPassword" Width="100" Height="20"></PasswordBox>
+            </StackPanel>
+            <Button Content="Login" Padding="5" Margin="10 0 10 0" Width="100" Click="LoginPost_Click"/>
+        </StackPanel>
+        
+        <StackPanel x:Name="LogoutPanel" Visibility="Collapsed">
+            <StackPanel Orientation="Horizontal" Height="50" HorizontalAlignment="Center" Margin="0 20 0 0">
+                <Label x:Name="Welcome" Content="Welcome" Margin="0 11 0 0" FontWeight="Bold" Foreground="Blue"/>
+            </StackPanel>
+            <Button Content="Logout" Padding="5" Margin="10 0 10 0" Width="100" Click="Logout_Click"/>
+        </StackPanel>
+
+
+
+
+        <!--Search by ID input field-->
+        <StackPanel x:Name="SearchByIdPanel" Margin="0 20 0 0" Visibility="Collapsed">
+            <StackPanel  Orientation="Horizontal" Height="50" HorizontalAlignment="Center">
+                <Label Content="ID: " Margin="0 11 0 0"/>
+                <TextBox x:Name="SearchIdInput" Width="100" Height="20"></TextBox>
+            </StackPanel>
+            <Button Content="Search" Padding="5" Margin="10 0 10 0" Width="100" Click="SearchByIdSubmit_Click"/>
+        </StackPanel>
+        
+
+        <!--Add new employee -->
+        <StackPanel x:Name="AddPanel" HorizontalAlignment="Center" Visibility="Collapsed" Margin="0 10 0 0">
+            <StackPanel Orientation="Horizontal" Height="35" HorizontalAlignment="Left" Margin="0 0 0 0" Visibility="Visible">
+                <Label Content="Name: " Margin="0 5 0 0"/>
+                <TextBox x:Name="AddNameInput" Width="150" Height="20" Margin="10 0 0 0"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="35" HorizontalAlignment="Left" Margin="0 0 0 0" Visibility="Visible">
+                <Label Content="Email: " Margin="0 5 0 0"/>
+                <TextBox x:Name="AddEmailInput" Width="150" Height="20" Margin="13 0 0 0"></TextBox>
+            </StackPanel>
+            <StackPanel x:Name="PanelSelectDepertments" Orientation="Horizontal" Height="35" HorizontalAlignment="Left" Margin="0 0 0 0" Visibility="Visible">
+                <Label Content="Department: " Margin="0 5 0 0"/>
+                <ComboBox x:Name="InputSelectDepartments" IsDropDownOpen="False" Width="128" Height="20" Visibility="Visible"/>
+                <TextBox x:Name="InputTextDepartment" Width="128" Height="20" Visibility="Collapsed"/>
+            </StackPanel>
+            <StackPanel x:Name="PanelAddSalery" Orientation="Horizontal" Height="35" HorizontalAlignment="Left" Margin="0 0 0 0" Visibility="Collapsed">
+                <Label Content="Salary: " Margin="0 5 0 0"/>
+                <TextBox x:Name="InputAddSalary" Width="80" Height="20" Margin="32 0 0 0" Visibility="Visible"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="20" HorizontalAlignment="Center" Margin="0 0 0 0" Visibility="Visible">
+                <CheckBox x:Name="CheckBoxNewDepartment" Content="Add new Department" Click="AddNewDepartment_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="20" HorizontalAlignment="Center" Margin="0 0 0 0" Visibility="Visible">
+                <CheckBox x:Name="CheckBoxGrantAdminPriv" Content="Grant admin privilige" Click="GrandAdminPriv_Click"/>
+            </StackPanel>
+            <StackPanel x:Name="PanelAddPass1" Orientation="Horizontal" Height="40" HorizontalAlignment="Left" Margin="0 0 0 0" Visibility="Collapsed">
+                <Label Content="Password" Margin="0 8 0 0"/>
+                <PasswordBox x:Name="AddInputPass1" Width="80" Height="20"/>
+            </StackPanel>
+            <StackPanel x:Name="PanelAddPass2" Orientation="Horizontal" Height="40" HorizontalAlignment="Left" Margin="0 0 0 0" Visibility="Collapsed">
+                <Label Content="Password" Margin="0 8 0 0"/>
+                <PasswordBox x:Name="AddInputPass2" Width="80" Height="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="40" HorizontalAlignment="Center" Margin="0 0 0 0" Visibility="Visible">
+                <Button Content="Add" Padding="5" Margin="10 0 10 0" Width="100" Click="AddPost_Click"/>
+            </StackPanel>
+        </StackPanel>
+        
+        <!--Edit panel-->
+        <StackPanel x:Name="EditPanel" Margin="0 20 0 0" Visibility="Collapsed" HorizontalAlignment="Center" >
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Center">
+                <Label Content="Click on 'All Employees' and" Margin="0 0 0 0" FontWeight="Bold" Foreground="DarkOrange"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Center">
+                <Label Content="select a record to edit!" Margin="0 0 0 0" FontWeight="Bold" Foreground="DarkOrange"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Left">
+                <Label Content="ID: " Margin="0 0 0 0" FontWeight="Bold"/>
+                <Label x:Name="EditID" Content="{Binding ElementName=ListView1, Path=SelectedItem.Id}" Margin="0 0 0 0" FontWeight="Bold"/>
+            </StackPanel>
+            
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Left">
+                <Label Content="Name: " Margin="0 0 0 0"/>
+                <TextBox x:Name="EditNameInput" Text="{Binding ElementName=ListView1, Path=SelectedItem.Name, Mode=OneWay}" Width="150" Margin="35 0 0 0"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="30" HorizontalAlignment="Left">
+                <Label Content="Email: " Margin="0 5 0 0"/>
+                <TextBox x:Name="EditEmailInput" Text="{Binding ElementName=ListView1, Path=SelectedItem.Email, Mode=OneWay}" Width="150" Margin="39 5 0 0"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="30" HorizontalAlignment="Left">
+                <Label Content="Department: " Margin="0 5 0 0"/>
+                <ComboBox x:Name="EditSelectDepartments" IsDropDownOpen="False" Width="150" Margin="4 5 0 0"  Visibility="Visible"/>
+                <TextBox x:Name="EditNewDepartmentInput" Width="150" Margin="3 5 0 0" Visibility="Collapsed"/>
+            </StackPanel>
+            <StackPanel x:Name="EditSalaryPanel"  Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Visibility="Collapsed">
+                <Label Content="Salary: " Margin="0 5 0 0"/>
+                <TextBox x:Name="EditSalaryInput" Width="100" Margin="36 5 0 0" Visibility="Visible"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="30" HorizontalAlignment="Left">
+                <CheckBox x:Name="EditNewDepartmentCheck" Content="New department" Margin="0 5 0 0" Click="EditNewDepartment"/>
+            </StackPanel>
+            <StackPanel x:Name="EditPasswdPanel1"  Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Visibility="Collapsed">
+                <Label Content="Password: " Margin="0 5 0 0"/>
+                <PasswordBox x:Name="EditPassInput1" Width="100" Margin="19 5 0 0"/>
+            </StackPanel>
+            <StackPanel x:Name="EditPasswdPanel2"  Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Visibility="Collapsed">
+                <Label Content="Password: " Margin="0 5 0 0"/>
+                <PasswordBox x:Name="EditPassInput2" Width="100" Margin="19 5 0 0"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="30" HorizontalAlignment="Left">
+                <CheckBox x:Name="EditAdminCheckbox" Content="Admin rights" Margin="0 5 0 0" Click="EditGiveAdminPrivileges_Click"/>
+            </StackPanel>
+            <StackPanel x:Name="EditNewPassPanel1"  Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Visibility="Collapsed">
+                <Label Content="New password: " Margin="0 5 0 0"/>
+                <PasswordBox x:Name="EditNewPassInput1" Width="100" Margin="19 5 0 0"/>
+            </StackPanel>
+            <StackPanel x:Name="EditNewPassPanel2"  Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Visibility="Collapsed">
+                <Label Content="New password: " Margin="0 5 0 0"/>
+                <PasswordBox x:Name="EditNewPassInput2" Width="100" Margin="19 5 0 0"/>
+            </StackPanel>
+            <StackPanel x:Name="EditNewPassCheckPanel" Orientation="Horizontal" Height="30" HorizontalAlignment="Left" Visibility="Hidden">
+                <CheckBox x:Name="EditNewPassCheck" Content="Set new password" Margin="0 5 0 0" Click="EditNewPassCheck_Click"/>
+            </StackPanel>
+            
+            <TextBox Visibility="Collapsed" x:Name="HiddenEditDepartment" Text="{Binding ElementName=ListView1, Path=SelectedItem.Department, Mode=OneWay}" />
+            <TextBox Visibility="Collapsed" x:Name="HiddenEditIsAdmin" Text="{Binding ElementName=ListView1, Path=SelectedItem.Admin, Mode=OneWay}" />
+            <TextBox Visibility="Collapsed" x:Name="EditChangeListener" Text="{Binding ElementName=ListView1, Path=SelectedItem.Id, Mode=OneWay}" TextChanged="EditListener"/>
+
+            <Button Content="Save" Padding="5" Margin="10 0 10 0" Width="100" Click="EditSubmitPut_Click"/>
+        </StackPanel>
+
+        <!--Delete Panel-->
+        <StackPanel x:Name="DeletePanel" HorizontalAlignment="Center" Visibility="Collapsed" Margin="0 10 0 0">
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Center">
+                <Label Content="Click on 'All Employees' and select a record to DELETE!" Margin="0 0 0 0" FontWeight="Bold" Foreground="DarkOrchid"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Center" Margin="0 0 0 0">
+                <Label Content="Or type an ID!" Margin="0 0 0 0" FontWeight="Bold" Foreground="DarkOrchid"/>
+            </StackPanel>
+            <StackPanel  Orientation="Horizontal" Height="25" HorizontalAlignment="Center">
+                <Label Content="ID:" Margin="0 0 0 0" FontWeight="Bold"/>
+                <TextBox x:Name="DeleteIdInput" Text="{Binding ElementName=ListView1, Path=SelectedItem.Id, Mode=OneWay}" Width="50" TextAlignment="Center" VerticalContentAlignment="Center"/>
+            </StackPanel>
+            <Button Content="Delete" Padding="5" Margin="10 10 10 0" Width="100" Click="DeleteSubmitDelete_Click"/>
+        </StackPanel>
+
+
+        <!--Datalist panel-->
+        <ListView Margin="0,10,0,0" Name="ListView1" HorizontalAlignment="Center" VerticalAlignment="Top" Width="600" Height="230" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="30" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Name" Width="130" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Email" Width="180" DisplayMemberBinding="{Binding Email}" />
+                    <GridViewColumn Header="Department" Width="110" DisplayMemberBinding="{Binding Department}" />
+                    <GridViewColumn Header="Salary" Width="80" DisplayMemberBinding="{Binding Salary}" />
+                    <GridViewColumn Header="Admin" Width="40" DisplayMemberBinding="{Binding Admin}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+
+    </StackPanel>
+</Window>

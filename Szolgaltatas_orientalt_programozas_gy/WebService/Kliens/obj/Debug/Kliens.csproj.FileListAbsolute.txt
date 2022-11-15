@@ -1,0 +1,11 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\bin\Debug\Kliens.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\bin\Debug\Kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\bin\Debug\Kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.Form1.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.Properties.Resources.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.csproj.GenerateResource.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\5_WebService\GyakVideo\Kliens\obj\Debug\Kliens.pdb

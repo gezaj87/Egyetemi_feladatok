@@ -1,0 +1,8 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\bin\Debug\joker_Fibo.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\bin\Debug\joker_Fibo.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\bin\Debug\joker_Fibo.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\obj\Debug\joker_Fibo.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\obj\Debug\joker_Fibo.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\obj\Debug\joker_Fibo.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\obj\Debug\joker_Fibo.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\joker_Fibo\obj\Debug\joker_Fibo.pdb

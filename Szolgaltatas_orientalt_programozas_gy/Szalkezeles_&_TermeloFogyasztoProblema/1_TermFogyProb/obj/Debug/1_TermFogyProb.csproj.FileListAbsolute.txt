@@ -1,0 +1,8 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\bin\Debug\1_TermFogyProb.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\bin\Debug\1_TermFogyProb.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\bin\Debug\1_TermFogyProb.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\obj\Debug\1_TermFogyProb.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\obj\Debug\1_TermFogyProb.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\obj\Debug\1_TermFogyProb.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\obj\Debug\1_TermFogyProb.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\SOP_ZH_GYAK\1_TermFogyProb\obj\Debug\1_TermFogyProb.pdb

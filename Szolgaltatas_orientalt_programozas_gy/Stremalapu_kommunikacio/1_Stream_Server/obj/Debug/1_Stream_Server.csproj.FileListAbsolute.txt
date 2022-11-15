@@ -1,0 +1,8 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\obj\Debug\1_Stream_Server.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\obj\Debug\1_Stream_Server.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\obj\Debug\1_Stream_Server.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\bin\Debug\1_Stream_Server.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\bin\Debug\1_Stream_Server.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\bin\Debug\1_Stream_Server.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\obj\Debug\1_Stream_Server.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\ZH_GYAK\ZH_GYAK_STREAM\1_Stream_Server\obj\Debug\1_Stream_Server.pdb

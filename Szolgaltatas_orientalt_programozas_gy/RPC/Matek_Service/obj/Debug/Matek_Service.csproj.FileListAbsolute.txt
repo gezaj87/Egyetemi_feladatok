@@ -1,0 +1,6 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Service\bin\Debug\Matek_Service.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Service\bin\Debug\Matek_Service.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Service\obj\Debug\Matek_Service.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Service\obj\Debug\Matek_Service.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Service\obj\Debug\Matek_Service.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyakorlat\4_RPC\PROBA\Teszt\Matek_Service\obj\Debug\Matek_Service.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatekService", "MatekService\MatekService.csproj", "{9AC5AA92-9790-44E3-B63E-4BA5DAE931B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kliens", "Kliens\Kliens.csproj", "{A23B3A10-13BE-4522-9845-DCDC4EA8995D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9AC5AA92-9790-44E3-B63E-4BA5DAE931B3} = {9AC5AA92-9790-44E3-B63E-4BA5DAE931B3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC5AA92-9790-44E3-B63E-4BA5DAE931B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC5AA92-9790-44E3-B63E-4BA5DAE931B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC5AA92-9790-44E3-B63E-4BA5DAE931B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC5AA92-9790-44E3-B63E-4BA5DAE931B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23B3A10-13BE-4522-9845-DCDC4EA8995D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23B3A10-13BE-4522-9845-DCDC4EA8995D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23B3A10-13BE-4522-9845-DCDC4EA8995D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23B3A10-13BE-4522-9845-DCDC4EA8995D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79333CE4-C505-414E-B578-D4056975A507}
+	EndGlobalSection
+EndGlobal
