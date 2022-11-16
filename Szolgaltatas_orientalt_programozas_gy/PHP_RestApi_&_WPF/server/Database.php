@@ -4,8 +4,8 @@ class Database
 {
     private const HOST = '127.0.0.1';
     private const USER = 'root';
-    private const PASSWD = 'Leda7788';
-    private const DATABASE = "xu3r7f";
+    private const PASSWD = 'pass';
+    private const DATABASE = "database";
 
 
     public static function Connect()
