@@ -1,0 +1,14 @@
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\obj\Debug\XU3R7F.csproj.AssemblyReference.cache
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\obj\Debug\XU3R7F.csproj.CoreCompileInputs.cache
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\bin\Debug\XU3R7F.exe.config
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\bin\Debug\XU3R7F.exe
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\bin\Debug\XU3R7F.pdb
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\obj\Debug\XU3R7F.exe
+C:\Users\gezaj\source\repos\XU3R7F\XU3R7F\obj\Debug\XU3R7F.pdb
+D:\Új mappa\XU3R7F\XU3R7F\bin\Debug\XU3R7F.exe.config
+D:\Új mappa\XU3R7F\XU3R7F\bin\Debug\XU3R7F.exe
+D:\Új mappa\XU3R7F\XU3R7F\bin\Debug\XU3R7F.pdb
+D:\Új mappa\XU3R7F\XU3R7F\obj\Debug\XU3R7F.csproj.AssemblyReference.cache
+D:\Új mappa\XU3R7F\XU3R7F\obj\Debug\XU3R7F.csproj.CoreCompileInputs.cache
+D:\Új mappa\XU3R7F\XU3R7F\obj\Debug\XU3R7F.exe
+D:\Új mappa\XU3R7F\XU3R7F\obj\Debug\XU3R7F.pdb
