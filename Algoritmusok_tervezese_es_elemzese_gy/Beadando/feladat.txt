@@ -1,0 +1,1 @@
+Láncolt lista és strázsás lista implementálása hozzájuk tartozó alapműveletekkel egy tetszőleges programozási nyelven.
