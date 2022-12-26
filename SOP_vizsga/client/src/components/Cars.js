@@ -53,14 +53,15 @@ function Cars({states})
         console.log(response)
     }
 
-    function Order(plate, price, year, image, brand)
+    function Order(plate, price, year, image, brand, capacity)
     {
         states.setOrder({
             plate: plate,
             price: price,
             year: year,
             image: image,
-            brand: brand
+            brand: brand,
+            capacity: capacity
         });
     }
 
@@ -86,7 +87,7 @@ function Cars({states})
                                         <p>Capacity: {e.capacity}</p>
                                         <p>Price: €{e.price} / 1 month</p>
                                         <h6 className={e.avaiable === 1? 'text-success' : 'text-danger'}>{e.avaiable === 1? 'AVAIABLE' : 'RENTED OUT'}</h6>
-                                        <button className={e.avaiable === 1? 'btn btn-success' : 'd-none'} onClick={() => Order(e.plate, e.price, e.year, e.image, e.brand)}>Rent NOW</button>
+                                        <button className={e.avaiable === 1? 'btn btn-success' : 'd-none'} onClick={() => Order(e.plate, e.price, e.year, e.image, e.brand, e.capacity)}>Rent NOW</button>
                                     </div>
                                 </div>
                             </div>
