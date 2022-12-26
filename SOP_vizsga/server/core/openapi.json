@@ -1,0 +1,810 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "NODE JS REST API - Car Rental",
+    "version": "1.0.0",
+    "description": "Test API",
+    "contact": {
+      "name": "Test",
+      "email": "gezajoni87@gmail.com",
+      "url": "http://127.0.0.1:3000"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://127.0.0.1:5555/",
+      "description": "Local server"
+    }
+  ],
+  "paths": {
+    "/auth": {
+      "post": {
+        "summary": "User authentication",
+        "description": "User authentication",
+        "operationId": "auth",
+        "tags": [
+          "auth"
+        ],
+        "requestBody": {
+          "description": "User authentication",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "User authentication",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "User authenticated"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/login": {
+      "post": {
+        "summary": "User login",
+        "description": "User login",
+        "operationId": "login",
+        "tags": [
+          "login"
+        ],
+        "requestBody": {
+          "description": "User login",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "email",
+                  "password"
+                ],
+                "properties": {
+                  "email": {
+                    "type": "string",
+                    "description": "email",
+                    "example": "email@email.hu"
+                  },
+                  "password": {
+                    "type": "string",
+                    "description": "Password",
+                    "example": "testPassword123"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "User login",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "token"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "User logged in"
+                    },
+                    "token": {
+                      "type": "string",
+                      "description": "Token",
+                      "example": 1234567890
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/register": {
+      "post": {
+        "summary": "User registration",
+        "description": "User registration",
+        "operationId": "register",
+        "tags": [
+          "register"
+        ],
+        "requestBody": {
+          "description": "User registration",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "email",
+                  "password1",
+                  "password2",
+                  "name",
+                  "address"
+                ],
+                "properties": {
+                  "email": {
+                    "type": "string",
+                    "description": "email",
+                    "example": "email@email.hu"
+                  },
+                  "password1": {
+                    "type": "string",
+                    "description": "Password 1",
+                    "example": "testPassword123"
+                  },
+                  "password2": {
+                    "type": "string",
+                    "description": "Password 2",
+                    "example": "testPassword123"
+                  },
+                  "name": {
+                    "type": "string",
+                    "description": "Name",
+                    "example": "John Doe"
+                  },
+                  "address": {
+                    "type": "string",
+                    "description": "Address",
+                    "example": "1211 Budapest, Kossuth Lajos utca 1."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "User registration",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "User registered"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/user": {
+      "post": {
+        "summary": "User data",
+        "description": "User data",
+        "operationId": "user_post",
+        "tags": [
+          "user"
+        ],
+        "requestBody": {
+          "description": "User data",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "User data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "userData"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "User data"
+                    },
+                    "userData": {
+                      "type": "array",
+                      "description": "User data",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "email",
+                          "name",
+                          "address"
+                        ],
+                        "properties": {
+                          "email": {
+                            "type": "string",
+                            "description": "email",
+                            "example": null
+                          },
+                          "name": {
+                            "type": "string",
+                            "description": "Name",
+                            "example": "John Doe"
+                          },
+                          "address": {
+                            "type": "string",
+                            "description": "Address",
+                            "example": "1211 Budapest, Kossuth Lajos utca 1."
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "summary": "User data update",
+        "description": "User data update",
+        "operationId": "user_put",
+        "tags": [
+          "user"
+        ],
+        "requestBody": {
+          "description": "User data update",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token",
+                  "email",
+                  "name",
+                  "address",
+                  "isPasswordChanged",
+                  "oldPassword",
+                  "newPassword1",
+                  "newPassword2"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  },
+                  "email": {
+                    "type": "string",
+                    "description": "email",
+                    "example": "email@email.hu"
+                  },
+                  "name": {
+                    "type": "string",
+                    "description": "Name",
+                    "example": "John Doe"
+                  },
+                  "address": {
+                    "type": "string",
+                    "description": "Address",
+                    "example": "1211 Budapest, Kossuth Lajos utca 1."
+                  },
+                  "isPasswordChanged": {
+                    "type": "boolean",
+                    "description": "Is password changed",
+                    "example": true
+                  },
+                  "oldPassword": {
+                    "type": "string",
+                    "description": "Old password",
+                    "example": "testPassword123"
+                  },
+                  "newPassword1": {
+                    "type": "string",
+                    "description": "New password 1",
+                    "example": "testPassword123"
+                  },
+                  "newPassword2": {
+                    "type": "string",
+                    "description": "New password 2",
+                    "example": "testPassword123"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "User data update",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "logout"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "User data updated"
+                    },
+                    "logout": {
+                      "type": "boolean",
+                      "description": "Logout",
+                      "example": true
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "summary": "User delete",
+        "description": "User delete",
+        "operationId": "user_delete",
+        "tags": [
+          "user"
+        ],
+        "requestBody": {
+          "description": "User delete",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "User delete",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "logout"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "User deleted"
+                    },
+                    "logout": {
+                      "type": "boolean",
+                      "description": "Logout",
+                      "example": true
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/cars": {
+      "post": {
+        "summary": "Cars",
+        "description": "Cars",
+        "operationId": "cars",
+        "tags": [
+          "cars"
+        ],
+        "requestBody": {
+          "description": "Cars",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token",
+                  "avaiableOnly"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  },
+                  "avaiableOnly": {
+                    "type": "boolean",
+                    "description": "Avaiable only",
+                    "example": true
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Cars",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "cars"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "Cars"
+                    },
+                    "cars": {
+                      "type": "array",
+                      "description": "Cars",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "plate",
+                          "year",
+                          "capacity",
+                          "price",
+                          "image",
+                          "avaiable",
+                          "brand"
+                        ],
+                        "properties": {
+                          "plate": {
+                            "type": "string",
+                            "description": "Plate",
+                            "example": "ABC-123"
+                          },
+                          "year": {
+                            "type": "integer",
+                            "description": "Year",
+                            "example": 2010
+                          },
+                          "capacity": {
+                            "type": "integer",
+                            "description": "Capacity",
+                            "example": 5
+                          },
+                          "price": {
+                            "type": "integer",
+                            "description": "Price",
+                            "example": 500
+                          },
+                          "image": {
+                            "type": "string",
+                            "description": "Image",
+                            "example": "image.jpg"
+                          },
+                          "avaiable": {
+                            "type": "integer",
+                            "description": "Avaiable",
+                            "example": 1
+                          },
+                          "brand": {
+                            "type": "string",
+                            "description": "Brand",
+                            "example": "BMW"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/pay": {
+      "post": {
+        "summary": "Pay",
+        "description": "Pay",
+        "operationId": "pay",
+        "tags": [
+          "pay"
+        ],
+        "requestBody": {
+          "description": "Pay",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token",
+                  "name",
+                  "cardNumber",
+                  "expDate",
+                  "cvc",
+                  "price",
+                  "plate"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  },
+                  "name": {
+                    "type": "string",
+                    "description": "Name",
+                    "example": "John Doe"
+                  },
+                  "cardNumber": {
+                    "type": "string",
+                    "description": "Card number",
+                    "example": "1234 5678 9012 3456"
+                  },
+                  "expDate": {
+                    "type": "string",
+                    "description": "Expiration date",
+                    "example": "12/24"
+                  },
+                  "cvc": {
+                    "type": "integer",
+                    "description": "CVC",
+                    "example": 123
+                  },
+                  "price": {
+                    "type": "integer",
+                    "description": "Price",
+                    "example": 500
+                  },
+                  "plate": {
+                    "type": "string",
+                    "description": "Plate",
+                    "example": "ABC-123"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Pay",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "payment_id"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "Payment successful"
+                    },
+                    "payment_id": {
+                      "type": "string",
+                      "description": "Payment id",
+                      "example": 1234567890
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/history": {
+      "post": {
+        "summary": "History",
+        "description": "History",
+        "operationId": "history",
+        "tags": [
+          "history"
+        ],
+        "requestBody": {
+          "description": "History",
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "token"
+                ],
+                "properties": {
+                  "token": {
+                    "type": "string",
+                    "description": "User token",
+                    "example": 1234567890
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "History",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "success",
+                    "message",
+                    "history"
+                  ],
+                  "properties": {
+                    "success": {
+                      "type": "boolean",
+                      "description": "Success",
+                      "example": true
+                    },
+                    "message": {
+                      "type": "string",
+                      "description": "Message",
+                      "example": "History"
+                    },
+                    "history": {
+                      "type": "array",
+                      "description": "History",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "p_id",
+                          "plate",
+                          "price",
+                          "date"
+                        ],
+                        "properties": {
+                          "p_id": {
+                            "type": "string",
+                            "description": "Payment id",
+                            "example": 1234567890
+                          },
+                          "plate": {
+                            "type": "string",
+                            "description": "Plate",
+                            "example": "ABC-123"
+                          },
+                          "price": {
+                            "type": "integer",
+                            "description": "Price",
+                            "example": 500
+                          },
+                          "date": {
+                            "type": "string",
+                            "description": "Date",
+                            "example": "2020-12-24 12:00"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
