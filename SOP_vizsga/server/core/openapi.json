@@ -21,7 +21,7 @@
     }
   ],
   "paths": {
-    "/auth": {
+    "/api/auth": {
       "post": {
         "summary": "User authentication",
         "description": "User authentication",
@@ -80,7 +80,7 @@
         }
       }
     },
-    "/login": {
+    "/api/login": {
       "post": {
         "summary": "User login",
         "description": "User login",
@@ -151,7 +151,7 @@
         }
       }
     },
-    "/register": {
+    "/api/register": {
       "post": {
         "summary": "User registration",
         "description": "User registration",
@@ -234,7 +234,7 @@
         }
       }
     },
-    "/user": {
+    "/api/user": {
       "post": {
         "summary": "User data",
         "description": "User data",
@@ -491,7 +491,7 @@
         }
       }
     },
-    "/cars": {
+    "/api/cars": {
       "post": {
         "summary": "Cars",
         "description": "Cars",
@@ -610,7 +610,7 @@
         }
       }
     },
-    "/pay": {
+    "/api/pay": {
       "post": {
         "summary": "Pay",
         "description": "Pay",
@@ -711,7 +711,7 @@
         }
       }
     },
-    "/history": {
+    "/api/history": {
       "post": {
         "summary": "History",
         "description": "History",

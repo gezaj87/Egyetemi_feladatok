@@ -16,7 +16,7 @@ servers:
     description: Local server
 paths:
 
-  /auth:
+  /api/auth:
     post:
       summary: User authentication
       description: User authentication
@@ -56,7 +56,7 @@ paths:
                     type: string
                     description: Message
                     example: User authenticated
-  /login:
+  /api/login:
     post:
       summary: User login
       description: User login
@@ -106,7 +106,7 @@ paths:
                     type: string
                     description: Token
                     example: 1234567890
-  /register:
+  /api/register:
     post:
       summary: User registration
       description: User registration
@@ -166,7 +166,7 @@ paths:
                     type: string
                     description: Message
                     example: User registered
-  /user:
+  /api/user:
     post:
       summary: User data
       description: User data
@@ -352,7 +352,7 @@ paths:
                     type: boolean
                     description: Logout
                     example: true
-  /cars:
+  /api/cars:
     post:
       summary: Cars
       description: Cars
@@ -440,7 +440,7 @@ paths:
                           type: string
                           description: Brand
                           example: BMW
-  /pay:
+  /api/pay:
     post:
       summary: Pay
       description: Pay
@@ -515,7 +515,7 @@ paths:
                     type: string
                     description: Payment id
                     example: 1234567890
-  /history:
+  /api/history:
     post:
       summary: History
       description: History
