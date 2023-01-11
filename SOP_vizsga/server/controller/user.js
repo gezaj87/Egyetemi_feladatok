@@ -125,8 +125,10 @@ class UserController
 
     static DeleteUser(req, res, next)
     {
+        const query = "update users set active = ? where email = ?";
+        const params = [0, res.userData.email];
 
-        Mysql.SQL('delete from users where email = ?',[res.userData.email] , (error, results, fields)=> {
+        Mysql.SQL(query, params, (error, results, fields)=> {
             
             if (results)
             {

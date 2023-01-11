@@ -287,31 +287,23 @@
                       "example": "User data"
                     },
                     "userData": {
-                      "type": "array",
+                      "type": "object",
                       "description": "User data",
-                      "items": {
-                        "type": "object",
-                        "required": [
-                          "email",
-                          "name",
-                          "address"
-                        ],
-                        "properties": {
-                          "email": {
-                            "type": "string",
-                            "description": "email",
-                            "example": null
-                          },
-                          "name": {
-                            "type": "string",
-                            "description": "Name",
-                            "example": "John Doe"
-                          },
-                          "address": {
-                            "type": "string",
-                            "description": "Address",
-                            "example": "1211 Budapest, Kossuth Lajos utca 1."
-                          }
+                      "properties": {
+                        "email": {
+                          "type": "string",
+                          "description": "email",
+                          "example": null
+                        },
+                        "name": {
+                          "type": "string",
+                          "description": "Name",
+                          "example": "John Doe"
+                        },
+                        "address": {
+                          "type": "string",
+                          "description": "Address",
+                          "example": "1211 Budapest, Kossuth Lajos utca 1."
                         }
                       }
                     }

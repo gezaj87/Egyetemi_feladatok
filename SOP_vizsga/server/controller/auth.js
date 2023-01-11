@@ -13,7 +13,7 @@ class AuthController
         const token = req.body.token;
         res.success = true;
         res.message = '';
-        
+
 
         if (token)
         {
@@ -22,14 +22,15 @@ class AuthController
             {
                 const decryptedToken = HashPassword.Decrypt(process.env.SECRETKEY, token);
                 const temp = decryptedToken.split('#');
+                
 
                 if (temp.length === 2)
                 {
                     const email = temp[0];
                     const password = temp[1];
 
-                    const query = "select email, name, address, password, u_id from users where email = ? and password = ?";
-                    Mysql.SQL(query, [email, password], (error, results, fields) => {
+                    const query = "select email, name, address, password, u_id from users where email = ? and password = ? and active = ?";
+                    Mysql.SQL(query, [email, password, 1], (error, results, fields) => {
                         
                         if (results.length === 0)
                         {
@@ -62,10 +63,9 @@ class AuthController
             }
             catch(error)
             {
-                console.log(error);
-                response.decryption = false;
-                response.success = false;
-                response.message = error;
+                res.success = false;
+                res.message = AuthController.WRONG_TOKEN;
+                next();
             }
             
         }
