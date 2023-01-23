@@ -1,0 +1,39 @@
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\App.g.cs
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.lref
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.baml
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.g.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.Properties.Resources.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.GenerateResource.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Szolgáltatás orientált programozás ea + gy\Gyak-Beadandó\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CopyComplete
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe.config
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\XU3R7F_kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.AssemblyReference.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\App.g.cs
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens_MarkupCompile.lref
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\MainWindow.baml
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.g.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.Properties.Resources.resources
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.GenerateResource.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CoreCompileInputs.cache
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.csproj.CopyComplete
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.exe
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\XU3R7F_kliens.pdb
+D:\OneDrive - Eszterházy Károly Egyetem\TANULÁS\3. félév\Programozási környezetek gy\Beadandó\XU3R7F\XU3R7F_kliens\XU3R7F_kliens\XU3R7F_kliens\obj\Debug\App.baml
