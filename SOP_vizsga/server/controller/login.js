@@ -30,9 +30,9 @@ class LoginController
             next();
         }
 
-        const query = "select * from users where email = ? and password = ?";
+        const query = "select * from users where email = ? and password = ? and active = ?";
 
-        Mysql.SQL(query, [email, HashPassword.Encrypt(process.env.SECRETKEY, password)], (error, results, fields)=> {
+        Mysql.SQL(query, [email, HashPassword.Encrypt(process.env.SECRETKEY, password), 1], (error, results, fields)=> {
             
             if (results.length > 0)
             {

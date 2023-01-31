@@ -1,5 +1,6 @@
 import Mysql from "../core/mysql.js";
 import Validation from "../core/validation.js";
+import HashPassword from "../core/hashPassword.js";
 
 class UserController
 {
@@ -58,20 +59,19 @@ class UserController
 
             if (isPasswordChanged)
             {
-                console.log(oldPassword, newPassword1, newPassword2)
                 if (!oldPassword || !newPassword1 || !newPassword2)
                 {
                     throw UserController.INPUT_NOT_FOUND;
                 }
-                console.log('ittt')
 
                 if (oldPassword === '' || newPassword1 === '' || newPassword2 === '')
                 {
                     throw UserController.INPUT_NOT_FOUND;
                 }
 
-                if (oldPassword !== res.password)
+                if (oldPassword !== HashPassword.Decrypt(process.env.SECRETKEY, res.password))
                 {
+                    console.log(res.password)
                     throw UserController.OLD_PASSWORD_ERROR;
                 }
 
@@ -88,17 +88,22 @@ class UserController
             res.success = false;
             res.message = error;
             next();
+            return;
         }
-
 
         const query1 = "update users set name = ?, email = ?, address = ? where email = ?";
         const params1 = [name, email, address, res.userData.email];
 
         const query2 = "update users set name = ?, email = ?, address = ?, password = ? where email = ?";
-        const params2 = [name, email, address, newPassword1, res.userData.email];
+        const params2 = [name, email, address, HashPassword.Encrypt(process.env.SECRETKEY, newPassword1), res.userData.email];
+
+        
 
         const query = isPasswordChanged? query2 : query1;
         const params = isPasswordChanged? params2 : params1;
+        
+        console.log(query)
+        console.log(params)
         
 
         Mysql.SQL(query, params, (error, results, fields) => {

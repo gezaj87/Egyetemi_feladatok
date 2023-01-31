@@ -6,7 +6,7 @@ class HistoryController
 
     static History(req, res, next)
     {
-        const query = "select p_id, plate, price, DATE_FORMAT(date, '%Y-%m-%d %h:%m') as date from payments where u_id = ? order by date";
+        const query = "select p_id, plate, price, DATE_FORMAT(date, '%Y-%m-%d %H:%m') as date from payments where u_id = ? order by date desc";
         const params = [res.userID];
 
         Mysql.SQL(query, params, (error, results, fields) => {
