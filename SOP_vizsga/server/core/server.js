@@ -7,6 +7,8 @@ import swaggerUi from 'swagger-ui-express';
 import swaggerDocument from './openapi.json' assert { type: 'json' };
 
 
+import cors from 'cors';
+
 class Server
 {
     constructor()
@@ -20,6 +22,7 @@ class Server
         })
 
         const ROUTER = new RouterClass();
+		APP.use(cors());
         APP.use(bodyParser.json())
         APP.use('/api', RouterClass.ROUTER);
         APP.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
